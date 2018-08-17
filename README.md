@@ -14,7 +14,7 @@ Implement and practice the use of HTML elements and attributes.
 9. Add a button to the form using an input tag (HINT: You may need to google html form submission).
 10. Create an ordered list, give this at least list 5 list items of things you're excited to learn about in covalence.
 11. Create an unordered list, give this list at least 5 interesting facts about yourself.
-12. Wrap the entire page in a <div>.
+12. Wrap the entire page in a < div >.
 13. Reformat the document. How does it change compared to what you had originally written? (HINT: You can use cmd+z to undo and cmd+shift+z to redo on a Mac. On Windows it is ctrl+z to undo and ctrl+y to redo)
 14. Add a horizontal line between each section in your document.
 15. Add hyperlinks to each image that opens the image in a new tab.
