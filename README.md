@@ -1,7 +1,7 @@
 # HTML_Drills
 Objective
 
-Implement and practice the use of HTML elements and attributes.
+Implement and practice the use of HTML elements and attributes without Bootstrap.
 
 1. Create an index.html file, insert the basic elements needed to start a html file, this will include a doctype element, html elements, head elements and body elements. Hint: There is a keyboard shortcut to complete this! Try researching emmet abbreviations.
 2. Inside the <body> of your page, insert h1 through h6 elements, give each heading element some funny text.
